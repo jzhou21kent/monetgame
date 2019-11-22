@@ -1,0 +1,47 @@
+body 
+{
+	background-color: #fffbec;
+}
+
+h2
+{
+	color: #000000;
+	text-decoration: underline;
+	text-align:center
+}
+h1 
+{
+	color: black;
+	margin-left: 0px;
+	text-align:center
+  	
+}
+
+ul
+{
+	color: black;
+
+}
+p
+{
+	color:  black;
+	text-align:center
+}
+
+
+canvas
+{
+	position: absolute;
+}
+
+img
+{
+
+}
+a
+{
+  color: #FA6520;
+  text-align:center;
+}
+
+
