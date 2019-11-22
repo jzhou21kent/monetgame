@@ -27,15 +27,15 @@ function wrong(button)
 function right(button)
 {
 	button.style.backgroundColor = '#4CAF50'
-	document.getElementById("rightWrongText").innerHTML = "Correct! It is 110.7 Million Dollars! Crazy, Right?";
-	document.getElementById("why").innerHTML = "Learn More!"
+	document.getElementById("rightWrongText").innerHTML = "Correct! It is 110.7 Million Dollars! Crazy, Right? (Bon travail! C'est 110,7 millions de dollars! C'est fou, non?)";
+	document.getElementById("why").innerHTML = "Learn More! (Apprends plus!)"
 	document.getElementById("why").href = "meuleExp.html"
 }
 
 function right1(button)
 {
 	button.style.backgroundColor = '#4CAF50'
-	document.getElementById("rightWrongText").innerHTML = "Correct! It is 84.5 Million Dollars! Crazy, Right?";
-	document.getElementById("why").innerHTML = "Learn More!"
+	document.getElementById("rightWrongText").innerHTML = "Correct! It is 84.5 Million Dollars! Crazy, Right? (Bon travail! C'est 84,5 millions de dollars! C'est fou, non?)";
+	document.getElementById("why").innerHTML = "Learn More! (Apprends plus!)"
 	document.getElementById("why").href = "ligmaExp.html"
 }
